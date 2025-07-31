@@ -57,4 +57,13 @@
         android:orientation="vertical"
         app:layout_constraintGuide_percent="0.5" />
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvCharacters"
+        android:layout_width="222dp"
+        android:layout_height="254dp"
+        tools:layout_editor_absoluteX="94dp"
+        tools:layout_editor_absoluteY="345dp"
+
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
